@@ -1,0 +1,11 @@
+sprite {
+    height: 64px;
+    width: 64px;
+    /*background-color: aqua;*/
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image: url(skeleton.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
